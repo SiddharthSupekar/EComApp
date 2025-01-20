@@ -1,0 +1,139 @@
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Siddharth\source\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

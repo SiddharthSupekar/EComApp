@@ -1,0 +1,150 @@
+<div class="profile-container" *ngIf="isView; else form">
+  <div class="profile-image-container">
+    <!-- Displaying Profile Image -->
+    <img [src]="'https://localhost:7040/' + userProfile.profileImage" alt="Profile Image" class="profile-image" />
+  </div>
+
+  <h2>User Profile</h2>
+  <div class="user-info">
+    <label for="firstName">First Name:</label>
+    <span id="firstName">{{ userProfile.firstName }}</span>
+  </div>
+  <div class="user-info">
+    <label for="lastName">Last Name:</label>
+    <span id="lastName">{{ userProfile.lastName }}</span>
+  </div>
+  <div class="user-info">
+    <label for="email">Email:</label>
+    <span id="email">{{ userProfile.email }}</span>
+  </div>
+  <div class="user-info">
+    <label for="mobile">Mobile:</label>
+    <span id="mobile">{{ userProfile.mobile }}</span>
+  </div>
+  <div class="user-info">
+    <label for="dob">Date of Birth:</label>
+    <span id="dob">{{ userProfile.dob | date }}</span>
+  </div>
+  <div class="user-info">
+    <label for="address">Address:</label>
+    <span id="address">{{ userProfile.address }}</span>
+  </div>
+  <div class="user-info">
+    <label for="country">Country:</label>
+    <span id="country">{{ userProfile.countryName }}</span>
+  </div>
+  <div class="user-info">
+    <label for="state">State:</label>
+    <span id="state">{{ userProfile.stateName }}</span>
+  </div>
+  <div class="user-info">
+    <label for="zipcode">Zipcode:</label>
+    <span id="zipcode">{{ userProfile.zipcode }}</span>
+  </div>
+
+  <div>
+    <button type="button" (click)="forUpdate()" class="btn btn-primary">Update?</button>
+  </div>
+</div>
+
+<ng-template #form>
+  <div class="container">
+    <h2>User Registration</h2>
+
+    <form [formGroup]="updateForm" (ngSubmit)="onSubmit()">
+      <div class="profile-image-container">
+        <label for="fileInput">
+          <img [src]="image || 'https://localhost:7040/' + (selectedFile ? selectedFile.name : userProfile.profileImage)" alt="Profile Image" class="profile-image" />
+          <i class="fas fa-edit"></i>
+        </label>
+        <input type="file" id="fileInput" (change)="onFileSelected($event)" hidden />
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('firstName') }">
+        <label>First Name</label>
+        <input formControlName="firstName" type="text" maxlength="20" />
+        <div *ngIf="isFieldInvalid('firstName')" class="error-message">
+          First Name is required.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('lastName') }">
+        <label>Last Name</label>
+        <input formControlName="lastName" type="text" maxlength="20" />
+        <div *ngIf="isFieldInvalid('lastName')" class="error-message">
+          Last Name is required.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('email') }">
+        <label>Email</label>
+        <input formControlName="email" type="email" />
+        <!-- <div *ngIf="isFieldInvalid('email')" class="error-message">
+          Please enter a valid email.
+        </div> -->
+        <div *ngIf="updateForm.controls['email'].hasError('invalidEmail')">
+          <div class="text-danger">Please enter a valid email.</div>
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('mobile') }">
+        <label>Mobile</label>
+        <input formControlName="mobile" type="text" maxlength="10" appPhone />
+        <div *ngIf="isFieldInvalid('mobile')" class="error-message">
+          Please enter a 10-digit mobile number.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('dob') }">
+        <label>Date of Birth</label>
+        <input formControlName="dob" type="date" max="{{todayDate}}" />
+        <div *ngIf="isFieldInvalid('dob')" class="error-message">
+          Date of birth is required.
+        </div>
+      </div>
+
+      <div>
+        <label>Address</label>
+        <input formControlName="address" type="text" />
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('countryId') }">
+        <label>Country</label>
+        <select formControlName="countryId" class="form-control" (change)="onCountryChange()" required>
+          <option value="" disabled selected>Select Country</option>
+          <option *ngFor="let country of countryData" [value]="country.id">{{ country.name }}</option>
+        </select>
+        <div *ngIf="isFieldInvalid('countryId')" class="error-message">
+          Please select a country.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('stateId') }">
+        <label>State</label>
+        <select formControlName="stateId" class="form-control" required>
+          <option value="" disabled selected>Select State</option>
+          <option *ngFor="let state of filteredStateData" [value]="state.id">{{ state.name }}</option>
+        </select>
+        <div *ngIf="isFieldInvalid('stateId')" class="error-message">
+          Please select a state.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('zipcode') }">
+        <label>Zip Code</label>
+        <input formControlName="zipcode" type="text" appPhone />
+        <div *ngIf="isFieldInvalid('zipcode')" class="error-message">
+          Zip code is required.
+        </div>
+      </div>
+
+      <div>
+        <button type="submit" >Update</button>
+      </div>
+      <br>
+      <div>
+        <button type="button" id="cancel" (click)="isView=true" >Cancel</button>
+      </div>
+    </form>
+  </div>
+</ng-template>

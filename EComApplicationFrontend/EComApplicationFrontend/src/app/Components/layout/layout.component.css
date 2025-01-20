@@ -1,0 +1,50 @@
+/* General Navbar Styling */
+.navbar {
+    font-size: 1.2rem; /* Increase font size for all navbar items */
+    padding: 10px 20px; /* Adjust padding to make the navbar slightly taller */
+  }
+  
+  /* Navbar Links and Items */
+  .navbar-nav .nav-item .nav-link {
+    font-size: 1.4rem; /* Increase font size of links */
+    padding: 10px 15px; /* Increase padding around links */
+  }
+  
+  /* Enlarge Profile Image */
+  .navbar-nav.ms-auto img {
+    width: 60px; /* Increase width of profile image */
+    height: 60px; /* Increase height of profile image */
+    border-radius: 50%; /* Keep the profile image circular */
+    margin-right: 10px; /* Space between the image and text */
+  }
+  
+  /* Enlarge Dropdown Arrow */
+  .navbar-nav.ms-auto .dropdown-toggle::after {
+    font-size: 2rem; /* Increase size of dropdown arrow */
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  
+  /* Enlarge Icons Inside Nav Links */
+  .navbar-nav .nav-item .nav-link i {
+    font-size: 2rem; /* Increase size of icons inside navbar */
+    margin-right: 0.5rem; /* Space between icon and text */
+  }
+  
+  /* Cart Badge */
+  .navbar-nav .nav-item  {
+    font-size: 1.5rem; /* Increase the size of the cart badge */
+    padding: 0.5rem;
+    margin-left: 5px; /* Space between cart icon and badge */
+  }
+  
+  /* Navbar Links when Hovered */
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #007bff; /* Change text color on hover */
+  }
+  
+  /* Active Nav Item */
+  .navbar-nav .nav-item.active .nav-link {
+    font-weight: bold; /* Highlight active nav item */
+    color: #28a745; /* Set a color for active link */
+  }

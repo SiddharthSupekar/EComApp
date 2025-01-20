@@ -1,0 +1,169 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container mt-4 col-8">
+        <h2 class="text-center mb-4">Patient List</h2>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+
+                    <th>Product Name</th>
+                    <th>Product Code</th>
+                    <th>Brand</th>
+                    <th>Selling Price</th>
+                    <th>Purchase Price</th>
+                    <th>Stock</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let product of products">
+
+                    <td>{{ product.productName }}</td>
+                    <td>{{ product.productCode }}</td>
+                    <td>{{ product.brand }}</td>
+                    <td>{{ product.sellingPrice }}</td>
+                    <td>{{ product.purchasePrice }}</td>
+                    <td>{{ product.stock }}</td>
+                    <td>
+                        <button class="btn btn-primary" (click)="onUpdate(product)">Update</button>
+                        <button class="btn btn-info" (click)="onView(product)">View</button>
+                        <button class="btn btn-danger" (click)="onDelete(product.id)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+      </div>
+    <div  class="profile-form-container col-4" *ngIf="showForm">
+</div>  
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class="row">
+      <div class="container mt-4 col-8" *ngIf="!showForm" >
+          <h2 class="text-center mb-4">Your Product List</h2>
+          <table class="table table-bordered table-striped">
+              <thead>
+                  <tr>
+                    <th>Product Name</th>
+                    <th>Product Code</th>
+                    <th>Brand</th>
+                    <th>Selling Price</th>
+                    <th>Purchase Price</th>
+                    <th>Stock</th>
+                    <th>Actions</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr *ngFor="let product of products">
+                        <td>{{ product.productName }}</td>
+                        <td>{{ product.productCode }}</td>
+                        <td>{{ product.brand }}</td>
+                        <td>{{ product.sellingPrice }}</td>
+                        <td>{{ product.purchasePrice }}</td>
+                        <td>{{ product.stock }}</td>
+                        <td>
+                            <button class="btn btn-primary" (click)="onUpdate(product)">Update</button>
+                            <button class="btn btn-info" (click)="onView(product)">View</button>
+                            <button class="btn btn-danger" (click)="onDelete(product.id)">Delete</button>
+                        </td>
+                  </tr>
+              </tbody>
+          </table>
+      </div>
+      <div  class="profile-form-container col-4" *ngIf="showForm">
+        
+
+        <form [formGroup]="productDetails">
+          <div class="form-header">
+            <h3>Product</h3>
+            <button class="btn btn-close" (click)="hideForm()">  </button>
+          </div>
+          <div class="form-group" *ngIf="isView">
+            <img [src]=" image ||'https://localhost:7040/' + prodPic" alt="Profile Image" class="profile-image" />
+          </div>  
+          <div class="profile-image-container" *ngIf="!isView" >
+            <label for="fileInput">
+              <img [src]=" image || 'https://localhost:7040/' +  prodPic" alt="Product Image" class="profile-image" />
+              <i class="fas fa-edit"></i>
+            </label>
+            <input type="file" id="fileInput" (change)="onFileSelected($event)"  hidden />
+          </div> 
+          
+          <div class="form-group">
+            <label for="productName" >Product Name</label >
+            <input type="text" id="productName" class="form-control" formControlName="productName" maxlength="20"  />
+          </div>
+          <div class="form-group">
+            <label for="productCode">ProductCode</label>
+            <input type="text" id="productCode" class="form-control" formControlName="productCode"  maxlength="6" readonly />
+            <small *ngIf="productDetails.get('productCode')?.invalid && productDetails.get('productCode')?.touched" class="text-danger" disabled>
+              ProductCode is required.
+            </small>
+          </div>
+          <div class="form-group">
+            <label for="category">Category</label>
+            <input type="text" id="category" class="form-control" formControlName="category" maxlength="20" />
+            <small *ngIf="productDetails.get('category')?.invalid && productDetails.get('category')?.touched" class="text-danger">
+              Category is required.
+            </small>
+          </div>
+          <div class="form-group">
+            <label for="brand">brand</label>
+            <input type="text" id="brand" class="form-control" formControlName="brand" maxlength="20" />
+            <small *ngIf="productDetails.get('brand')?.invalid && productDetails.get('brand')?.touched" class="text-danger">
+              Brand is required
+            </small>
+          </div>
+          <div class="form-group">
+            <label for="sellingPrice">sellingPrice</label>
+            <input type="number" id="sellingPrice" class="form-control" formControlName="sellingPrice"    />
+            <small *ngIf="productDetails.get('sellingPrice')?.invalid && productDetails.get('sellingPrice')?.touched" class="text-danger">
+              Enter a valid sellingPrice.
+            </small>
+          </div>
+          <div class="form-group">
+            <label for="purchasePrice">purchasePrice</label>
+            <input type="number" id="purchasePrice" class="form-control" formControlName="purchasePrice"   />
+            <small *ngIf="productDetails.get('purchasePrice')?.invalid && productDetails.get('purchasePrice')?.touched" class="text-danger">
+              Enter a valid purchasePrice.
+            </small>
+            @if(sellingPriceSmall ){
+              <div class="text-danger">
+                Purchase price should be less than selling price
+              </div>
+            }
+          </div>
+          <div class="form-group">
+            <label for="purchaseDate">purchaseDate</label>
+            <input type="date" id="purchaseDate" class="form-control" formControlName="purchaseDate" />
+            <small *ngIf="productDetails.get('purchaseDate')?.invalid && productDetails.get('purchaseDate')?.touched" class="text-danger">
+              Enter a valid purchaseDate.
+            </small>
+          </div>
+          <div class="form-group">
+            <label for="stock">stock</label>
+            <input type="text" id="stock" class="form-control" formControlName="stock" />
+            <small *ngIf="productDetails.get('stock')?.invalid && productDetails.get('stock')?.touched" class="text-danger">
+              Enter a valid stock.
+            </small>
+          </div>
+          <button class="btn btn-primary" type="submit" [disabled]="productDetails.invalid" [hidden]="isView" (click)="forUpdate()">Update</button>
+        </form>
+      </div>
+  </div>
+</body>
+</html>
+

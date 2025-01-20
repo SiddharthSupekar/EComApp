@@ -1,0 +1,42 @@
+<div class="invoice-container" *ngIf="invoiceData">
+  <div class="invoice-card">
+    <button>
+      <a href="javascript:window.print()">Print</a>
+    </button>
+    <div class="invoice-header">
+      <h2>Invoice</h2>
+      <div class="invoice-metadata">
+        <p><strong>Invoice #:</strong> {{ invoiceData.invoiceId }}</p>
+        
+        <p><strong>Date:</strong> {{ invoiceData.invoiceDate }}</p>
+      </div>
+    </div>
+    <div class="invoice-address">
+      <p>{{ invoiceData.address }}</p>
+      <p>{{ invoiceData.zipcode }}</p>
+      <p>{{ invoiceData.state }}, {{ invoiceData.country }}</p>
+    </div>
+    <div class="invoice-table">
+      <div class="invoice-row heading">
+        <div class="invoice-cell">Product Code</div>
+        <div class="invoice-cell"> </div>
+        <div class="invoice-cell">Price</div>
+        <div class="invoice-cell">Quantity</div>
+        <div class="invoice-cell">Item Total</div>
+      </div>
+      <div *ngFor="let product of invoiceData.productInvoices" class="invoice-row">
+        <div class="invoice-cell">{{ product.productCode }}</div>
+        <div class="invoice-cell"></div>
+
+        <div class="invoice-cell">{{ product.sellingPrice | currency:"INR" }}</div>
+        <div>x</div>
+        <div class="invoice-cell">{{ product.saleQuantity }}</div>
+        <div class="invoice-cell">{{ (product.saleQuantity * product.sellingPrice) | currency:"INR" }}</div>
+      </div>
+      <div class="invoice-row total">
+        <div class="invoice-cell" colspan="3"></div>
+        <div class="invoice-cell"><strong>Total:</strong> {{ invoiceData.subTotal | currency:"INR" }}</div>
+      </div>
+    </div>
+  </div>
+</div>

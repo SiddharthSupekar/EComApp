@@ -1,0 +1,50 @@
+<div class="wrapper">
+    <!-- Logo Section -->
+    <div class="logo">
+      <img
+        src="https://bloggytalky.com/wp-content/uploads/2017/07/create-a-free-logo-design-logo-designs-design-a-free-logo-design-a-free-logo-alltech-just-free-logo-design-1024x934.png"
+        alt="Logo"
+      />
+    </div>
+  
+    <!-- Title -->
+    <div class="text-center mt-4 name">Login</div>
+  
+    <!-- Login Form -->
+    <form [formGroup]="loginForm" class="p-3 mt-3">
+      <!-- Username Field -->
+      <div class="form-field d-flex align-items-center"
+           [ngClass]="{ 'invalid': loginForm.get('username')?.invalid && loginForm.get('username')?.touched }">
+        <span class="far fa-user"></span>
+        <input type="text" name="username" id="username" placeholder="Username" formControlName="username" />
+      </div>
+      <div *ngIf="loginForm.get('username')?.invalid && loginForm.get('username')?.touched" class="error-message">
+        Username is required.
+      </div>
+  
+      <!-- Password Field -->
+      <div class="form-field d-flex align-items-center"
+           [ngClass]="{ 'invalid': loginForm.get('password')?.invalid && loginForm.get('password')?.touched }">
+        <span class="fas fa-key"></span>
+        <input type="password" name="password" id="pwd" placeholder="Password" formControlName="password" />
+      </div>
+      <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched" class="error-message">
+        Password is required.
+      </div>
+    </form>
+  
+    <!-- Login Button -->
+    <button class="btn mt-3" (click)="forVerifying()" [disabled]="loginForm.invalid">Login</button>
+  
+    <!-- Forgot Password -->
+    <div class="text-center fs-6 mt-3">
+      <a routerLink="/forgot-password" class="text-link">Forgot password?</a>
+    </div>
+  
+    <!-- Signup Link -->
+    <div class="text-center fs-6 mt-2">
+      Don't have an account?
+      <a routerLink="/register" class="text-link">Sign up</a>
+    </div>
+  </div>
+  

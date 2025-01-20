@@ -1,0 +1,35 @@
+<div class="product-container" *ngFor="let product of productDetails">
+    <div class="product-image-container">
+      <img [src]="'https://localhost:7040/' + product.productImage" alt="Product Image" class="product-image" />
+    </div>
+  
+    <div class="product-details-container">
+      <h2 class="product-title">{{ product.productName }}</h2>
+  
+      <div class="price-info">
+        <p class="product-price">
+          <span class="price-label">Price:</span>
+          <span class="price">{{ product.sellingPrice | currency:"INR" }}</span>
+        </p>
+      </div>
+  
+      <div class="category-brand">
+        <p><strong>Category:</strong> {{ product.category }}</p>
+        <p><strong>Brand:</strong> {{ product.brand }}</p>
+      </div> 
+
+      <div class="add-to-cart">
+        <button class="btn-add-to-cart" *ngIf="product.stock> cartQuantity(product)" (click)="addToCart(product)">
+          Add to Cart
+        </button>
+        
+        <p *ngIf="product.stock <= cartQuantity(product)" style="color:red">Out of stock</p>
+      </div>
+      
+    </div>
+
+    <!-- <ng-template #outOfStock>
+      <p class="product-out-of-stock">Out of Stock!!</p>
+    </ng-template> -->
+  </div>
+  

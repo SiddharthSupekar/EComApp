@@ -1,0 +1,93 @@
+<div class="profile-container">
+  <h2>Add Product</h2>
+
+  <form [formGroup]="productDetails" (ngSubmit)="onAdd()">
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('productName') }">
+      <label for="productName">Product Name</label>
+      <input type="text" formControlName="productName" maxlength="20" >
+      <div *ngIf="isFieldInvalid('productName')" class="error-message">
+        Product Name is required and should be of less than 50 characters.
+      </div>
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('productCode') }">
+      <label for="productCode">Product Code</label>
+      <input type="text" formControlName="productCode" minlength="6" maxlength="6" >
+      <div *ngIf="isFieldInvalid('productCode')" class="error-message">
+        Product Code is required and should be of 6 characters.
+      </div>
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('category') }">
+      <label for="category">Category</label>
+      <input type="text" formControlName="category">
+      <div *ngIf="isFieldInvalid('category')" class="error-message">
+        Category is required and should be of less than 20 characters.
+      </div>
+    </div>
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('brand') }">
+      <label for="brand">Brand</label>
+      <input type="text" formControlName="brand">
+      <div *ngIf="isFieldInvalid('brand')" class="error-message">
+        Brand is required and should be of less than 20 characters.
+      </div>
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('sellingPrice') }">
+      <label for="sellingPrice">Selling Price</label>
+      <input type="number" formControlName="sellingPrice"  [(ngModel)]="sellingPrice"  >
+      <div *ngIf="isFieldInvalid('sellingPrice')" class="error-message">
+        SellingPrice field is required
+      </div>
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': purchasePrice> sellingPrice }">
+      <label for="purchasePrice">Purchase Price</label>
+      <input type="number" formControlName="purchasePrice" [(ngModel)]="purchasePrice" >
+      <div *ngIf="isFieldInvalid('purchasePrice')" class="error-message">
+        Purchase Price field is required
+      </div>
+      @if(sellingPrice<purchasePrice){
+        <div class="error-message">
+          Purchase price should be less than selling price
+        </div>
+      }
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('purchaseDate') }">
+      <label for="purchaseDate">Purchase Date</label>
+      <input type="date" formControlName="purchaseDate" max="{{todayDate}}">
+      <div *ngIf="isFieldInvalid('purchaseDate')" class="error-message">
+        Purchase Date is required.
+      </div>
+    </div>
+
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('stock') }">
+      <label for="stock">Stock</label>
+      <input type="number" formControlName="stock">
+      <div *ngIf="isFieldInvalid('stock')" class="error-message">
+        Stock is required and should be a valid number.
+      </div>
+    </div>
+
+    <div class="form-control" [ngClass]="{ 'invalid': isFieldInvalid('productImage') }">
+      <label for="productImage">Product Image</label>
+      <input type="file" (change)="onFileSelected($event)">
+      <div *ngIf="isFieldInvalid('productImage')" class="error-message">
+        Please upload a valid product image.
+      </div>
+    </div>
+
+    <div>
+      <button type="submit" >Add Product</button>
+    </div>
+  </form>
+</div>

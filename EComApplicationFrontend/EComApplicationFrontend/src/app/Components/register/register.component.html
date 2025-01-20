@@ -1,0 +1,130 @@
+<div class="container">
+    <h2>User Registration</h2>
+  
+    <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('firstName') }">
+        <label>First Name</label>
+        <input
+          formControlName="firstName"
+          type="text"
+          maxlength="20"
+          [disabled]="isFieldInvalid('firstName')"
+        />
+        <div *ngIf="isFieldInvalid('firstName')" class="error-message">
+          First Name is required and should not exceed 20 characters.
+        </div>
+      </div>
+  
+  
+      <div [ngClass]="{ 'invalid': isFieldInvalid('lastName') }">
+        <label>Last Name</label>
+        <input
+          formControlName="lastName"
+          type="text"
+          maxlength="20"
+        />
+        <div *ngIf="isFieldInvalid('lastName')" class="error-message">
+          Last Name is required and should not exceed 20 characters.
+        </div>
+      </div>
+  
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('email') }">
+        <label>Email</label>
+        <input formControlName="email" type="email" />
+        <!-- <div *ngIf="isFieldInvalid('email')" class="error-message">
+          Please enter a valid email.
+        </div> -->
+        
+      </div>
+
+      <div *ngIf="registerForm.controls['email'].hasError('invalidEmail')">
+        <div class="text-danger">Please enter a valid email.</div>
+      </div>
+ 
+      <div [ngClass]="{ 'invalid': isFieldInvalid('mobile') }">
+        <label>Mobile</label>
+        <input formControlName="mobile" type="text" pattern="^[0-9]{10}$" maxlength="10" appPhone />
+        <div *ngIf="isFieldInvalid('mobile')" class="error-message">
+          Please enter a 10-digit mobile number.
+        </div>
+      </div>
+  
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('roleId') }">
+        <label>Role</label>
+        <select formControlName="roleId" class="form-control" required>
+          <option value="" disabled selected>Select Role</option>
+          <option *ngFor="let role of roles" [value]="role.roleId">{{ role.roleName }}</option>
+        </select>
+        <div *ngIf="isFieldInvalid('roleId')" class="error-message">
+          Please select a role.
+        </div>
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('dob') }">
+        <label>Date of Birth</label>
+        <input formControlName="dob" type="date" max="{{todayDate}}" />
+        <div *ngIf="isFieldInvalid('dob')" class="error-message">
+          Date of birth is required.
+        </div>
+      </div>
+  
+
+      <div >
+        <label>Address</label>
+        <input formControlName="address" type="text" placeholder="Address" />
+      </div>
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('country') }">
+        <label>Country</label>
+        <select formControlName="countryId" class="form-control" (change)="onCountryChange()" >
+          <option value="" disabled selected>Select Country</option>
+          <option *ngFor="let country of countryData" [value]="country.id">{{ country.name }}</option>
+        </select>
+        <div *ngIf="isFieldInvalid('country')" class="error-message">
+          Please select a country.
+        </div>
+      </div>
+  
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('state') }">
+        <label>State</label>
+        <select formControlName="stateId" class="form-control" >
+          <option value="" disabled selected>Select State</option>
+          <option *ngFor="let state of filteredStateData" [value]="state.id">{{ state.name }}</option>
+        </select>
+        <div *ngIf="isFieldInvalid('state')" class="error-message">
+          Please select a state.
+        </div>
+      </div>
+  
+
+      <div [ngClass]="{ 'invalid': isFieldInvalid('zipcode') }">
+        <label>Zip Code</label>
+        <input formControlName="zipcode" type="text" appPhone />
+        <div *ngIf="isFieldInvalid('zipcode')" class="error-message">
+          Zip code is required.
+        </div>
+      </div>
+
+      <div>
+        <label>Profile Image</label>
+        <input type="file" (change)="onFileSelected($event)" />
+      </div>
+  
+
+      <div>
+        <button type="submit" >Register</button>
+      </div>
+  
+      <div class="col-12">
+        <p class="m-0 text-secondary text-center">
+          Already have an account?
+          <a routerLink="/login" class="link-primary text-decoration-none">Sign in</a>
+        </p>
+      </div>
+    </form>
+  </div>
+  

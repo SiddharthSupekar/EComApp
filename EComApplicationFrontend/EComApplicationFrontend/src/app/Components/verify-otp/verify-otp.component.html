@@ -1,0 +1,25 @@
+<div class="otp-container">
+  <h2>Verify OTP</h2>
+
+  <form [formGroup]="otpForm" (ngSubmit)="onSubmit()">
+    <div class="form-group" [ngClass]="{ 'invalid': otpForm.controls['otp'].invalid && otpForm.controls['otp'].touched }">
+      <label for="otp">Enter OTP</label>
+      <div class="input-container">
+        <input
+          id="otp"
+          type="text"
+          formControlName="otp"
+          placeholder="Enter OTP"
+          class="form-control" />
+        <span class="error-icon" *ngIf="otpForm.controls['otp'].invalid && otpForm.controls['otp'].touched">&#9888;</span>
+      </div>
+      <div *ngIf="otpForm.controls['otp'].invalid && otpForm.controls['otp'].touched" class="error-message">
+        <div *ngIf="otpForm.controls['otp'].hasError('required')">OTP is required.</div>
+        <div *ngIf="otpForm.controls['otp'].hasError('pattern')">OTP must be exactly 6 digits.</div>
+      </div>
+    </div>
+
+    <button type="submit" [disabled]="otpForm.invalid">Verify OTP</button>
+  </form>
+</div>
+  

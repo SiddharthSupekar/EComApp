@@ -1,0 +1,111 @@
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\source\Big Assessment\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\Downloads\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\Siddharth\source\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\Backend tuesday night\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.deps.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\bin\Debug\net8.0\Domain.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.AssemblyReference.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.AssemblyInfo.cs
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.sourcelink.json
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.csproj.Up2Date
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\refint\App.Core.dll
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\App.Core.pdb
+C:\Users\siddharthsupekar\Downloads\EComApplicationBackendBackup\EComApplicationBackend (1)\EComApplicationBackend\App.Core\obj\Debug\net8.0\ref\App.Core.dll
