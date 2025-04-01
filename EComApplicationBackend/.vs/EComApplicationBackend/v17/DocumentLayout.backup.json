@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,24 +167,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryStateController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
-              "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
-              "RelativeToolTip": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:46:21.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ICountryStateService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ICountryStateService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\ICountryStateService.cs",
@@ -200,12 +179,11 @@
               "RelativeToolTip": "App.Core\\Interfaces\\ICountryStateService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:40:41.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T08:40:41.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CountryStateService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CountryStateService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CountryStateService.cs",
@@ -213,12 +191,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\CountryStateService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:39:40.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T08:39:40.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\LoginService.cs",
@@ -226,12 +203,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\LoginService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAwFAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:33:15.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T06:33:15.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Program.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Program.cs",
@@ -244,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IJwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IJwtTokenService.cs",
@@ -252,12 +228,11 @@
               "RelativeToolTip": "App.Core\\Interfaces\\IJwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T07:05:24.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T07:05:24.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\RegisterController.cs",
@@ -265,12 +240,11 @@
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\RegisterController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:28:37.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:28:37.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\LoginController.cs",
@@ -278,12 +252,36 @@
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAowHIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T05:52:05.337Z",
+              "WhenOpened": "2024-12-06T05:52:05.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EComApplicationBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:32:37.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "CountryStateController.cs",
+              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "RelativeToolTip": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:46:21.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "JwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtTokenService.cs",
@@ -291,12 +289,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\JwtTokenService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T06:01:59.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T06:01:59.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\appsettings.json",
               "RelativeDocumentMoniker": "EComApplicationBackend\\appsettings.json",
@@ -304,12 +301,11 @@
               "RelativeToolTip": "EComApplicationBackend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T06:31:04.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T06:31:04.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IRegisterService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IRegisterService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IRegisterService.cs",
@@ -317,12 +313,11 @@
               "RelativeToolTip": "App.Core\\Interfaces\\IRegisterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:36:54.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:36:54.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\LoginDto.cs",
@@ -330,12 +325,11 @@
               "RelativeToolTip": "App.Core\\Dto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:28:00.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T06:28:00.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TokenDto.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\TokenDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\TokenDto.cs",
@@ -343,12 +337,11 @@
               "RelativeToolTip": "App.Core\\Dto\\TokenDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T05:58:17.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T05:58:17.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ILoginService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ILoginService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\ILoginService.cs",
@@ -356,12 +349,11 @@
               "RelativeToolTip": "App.Core\\Interfaces\\ILoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:25:57.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T06:25:57.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
@@ -369,12 +361,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:01:23.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T06:01:23.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IEmailService.cs",
@@ -382,12 +373,11 @@
               "RelativeToolTip": "App.Core\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T06:06:40.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T06:06:40.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\UserDto.cs",
@@ -395,12 +385,11 @@
               "RelativeToolTip": "App.Core\\Dto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T05:28:53.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T05:28:53.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
@@ -408,12 +397,11 @@
               "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T10:29:13.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:29:13.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RegisterService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\RegisterService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\RegisterService.cs",
@@ -421,12 +409,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\RegisterService.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAmwL0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:25:47.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:25:47.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\State.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\State.cs",
@@ -434,12 +421,11 @@
               "RelativeToolTip": "Domain\\Entities\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T06:01:44.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T06:01:44.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Country.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Country.cs",
@@ -447,12 +433,11 @@
               "RelativeToolTip": "Domain\\Entities\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:17:00.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:17:00.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
@@ -460,12 +445,11 @@
               "RelativeToolTip": "Domain\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:33:53.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:33:53.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "EComApplicationBackend.http",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.http",
               "RelativeDocumentMoniker": "EComApplicationBackend\\EComApplicationBackend.http",
@@ -473,12 +457,11 @@
               "RelativeToolTip": "EComApplicationBackend\\EComApplicationBackend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-12T10:30:34.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:30:34.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\PaymentService.cs",
@@ -486,12 +469,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\PaymentService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T06:35:33.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T06:35:33.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\ProductService.cs",
@@ -499,12 +481,11 @@
               "RelativeToolTip": "Infrastructure\\Services\\ProductService.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAgwLIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:34:01.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:34:01.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
@@ -516,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "CartService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CartService.cs",
@@ -528,19 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "EComApplicationBackend\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwFEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:32:37.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IProductService.cs",
@@ -552,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\PaymentController.cs",
@@ -564,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\ProductDto.cs",
@@ -576,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "IPaymentService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IPaymentService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IPaymentService.cs",
@@ -588,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "20241209061538_AnotherAdmin.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
@@ -600,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
               "RelativeDocumentMoniker": "EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
@@ -611,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
               "RelativeDocumentMoniker": "EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
@@ -622,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "20241206095542_Addressnullalso.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
@@ -634,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "CartDetailService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartDetailService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CartDetailService.cs",
@@ -646,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\CartController.cs",
@@ -658,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "SaleService.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\SaleService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\SaleService.cs",
@@ -670,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "20241206095240_Addressnull.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
@@ -679,38 +648,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T09:52:41.279Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 127,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Otp.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Otp.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Otp.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Otp.cs",
-              "RelativeToolTip": "Domain\\Entities\\Otp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T05:56:02.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIA7wBoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:55:14.055Z",
-              "EditorCaption": ""
             }
           ]
         }

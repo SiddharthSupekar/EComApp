@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EComApplicationBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd3db9e58e2ca79dc05be57ee09e7cc4ede4ee27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9809d180c52a2db25bcf71008e04ce187bbdde18")]
 [assembly: System.Reflection.AssemblyProductAttribute("EComApplicationBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EComApplicationBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj": {}
+    "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\App.Core.csproj": {
+    "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\App.Core.csproj",
+        "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\obj\\",
+        "outputPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Domain.csproj"
+              "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Domain.csproj": {
+    "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Domain.csproj",
+        "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\obj\\",
+        "outputPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj": {
+    "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj",
+        "projectUniqueName": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj",
         "projectName": "EComApplicationBackend",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj",
+        "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\obj\\",
+        "outputPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,8 +169,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj"
+              "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\siddharthsupekar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\obj\\",
+        "outputPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddharthsupekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,8 +253,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\App.Core.csproj": {
-                "projectPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\App.Core.csproj"
+              "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\App.Core.csproj": {
+                "projectPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\App.Core.csproj"
               }
             }
           }

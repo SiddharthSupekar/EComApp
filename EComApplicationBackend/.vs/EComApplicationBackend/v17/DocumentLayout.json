@@ -1,152 +1,152 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\",
+  "WorkspaceRootPath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\countrystatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\icountrystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\ecomapplicationbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\ecomapplicationbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\ecomapplicationbackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A9D551A-1D5F-4400-B975-53F3220A068B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\app.core\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\app.core\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79605DF4-0448-44C9-93E1-D420E7AC73A4}|App.Core\\App.Core.csproj|solutionrelative:app.core\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\wwwroots\\upload\\productimage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\wwwroots\\upload\\productimage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\wwwroots\\upload\\productimage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\wwwroots\\upload\\productimage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\wwwroots\\upload\\productimage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\wwwroots\\upload\\productimage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\ecomapplicationbackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42B18738-FFCF-4872-B79C-D667A9F47D3C}|EComApplicationBackend\\EComApplicationBackend.csproj|solutionrelative:ecomapplicationbackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\cartdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\cartdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cartdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -156,7 +156,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|c:\\users\\siddharthsupekar\\source\\ecomapplicationfinal\\ecomapplicationbackend\\infrastructure\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|d:\\gitclones\\ecomapp\\ecomapplicationbackend\\infrastructure\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35B3749B-0E4A-4020-8BF4-38A43512BF0E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -171,23 +171,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICountryStateService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ICountryStateService.cs",
-              "RelativeDocumentMoniker": "App.Core\\Interfaces\\ICountryStateService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ICountryStateService.cs",
-              "RelativeToolTip": "App.Core\\Interfaces\\ICountryStateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:40:41.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CountryStateService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CountryStateService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CountryStateService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CountryStateService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CountryStateService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CountryStateService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\CountryStateService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\LoginService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\LoginService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\LoginService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\LoginService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\LoginService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAwFAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,24 +195,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Program.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Program.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Program.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Program.cs",
               "RelativeToolTip": "EComApplicationBackend\\Program.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAgwHYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T10:30:34.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:30:34.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IJwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IJwtTokenService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IJwtTokenService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\IJwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\RegisterController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\RegisterController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\LoginController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAowHIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,11 +243,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\ProductController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwFEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,11 +256,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EComApplicationBackend\\appsettings.json",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\appsettings.json",
+              "RelativeToolTip": "EComApplicationBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T06:31:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICountryStateService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\ICountryStateService.cs",
+              "RelativeDocumentMoniker": "App.Core\\Interfaces\\ICountryStateService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\ICountryStateService.cs",
+              "RelativeToolTip": "App.Core\\Interfaces\\ICountryStateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:40:41.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CountryStateController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CountryStateController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\CountryStateController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,9 +295,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\JwtTokenService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\JwtTokenService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\JwtTokenService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\JwtTokenService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,23 +305,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\appsettings.json",
-              "RelativeDocumentMoniker": "EComApplicationBackend\\appsettings.json",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\appsettings.json",
-              "RelativeToolTip": "EComApplicationBackend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T06:31:04.466Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "IRegisterService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IRegisterService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IRegisterService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IRegisterService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IRegisterService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IRegisterService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\IRegisterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,9 +319,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\LoginDto.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\LoginDto.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\LoginDto.cs",
               "RelativeToolTip": "App.Core\\Dto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,9 +331,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\TokenDto.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\TokenDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\TokenDto.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\TokenDto.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\TokenDto.cs",
               "RelativeToolTip": "App.Core\\Dto\\TokenDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,9 +343,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ILoginService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\ILoginService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\ILoginService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\ILoginService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\ILoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,9 +355,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\EmailService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\EmailService.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowGEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,9 +367,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IEmailService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IEmailService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,9 +379,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\UserDto.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\UserDto.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\UserDto.cs",
               "RelativeToolTip": "App.Core\\Dto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,9 +391,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,9 +403,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "RegisterService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\RegisterService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\RegisterService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\RegisterService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\RegisterService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\RegisterService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\RegisterService.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAmwL0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,9 +415,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\State.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\State.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\State.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\State.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\State.cs",
               "RelativeToolTip": "Domain\\Entities\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,9 +427,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Country.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Country.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Country.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Country.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Country.cs",
               "RelativeToolTip": "Domain\\Entities\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,9 +439,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Role.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Role.cs",
               "RelativeToolTip": "Domain\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,9 +451,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "EComApplicationBackend.http",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.http",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.http",
               "RelativeDocumentMoniker": "EComApplicationBackend\\EComApplicationBackend.http",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.http",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\EComApplicationBackend.http",
               "RelativeToolTip": "EComApplicationBackend\\EComApplicationBackend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -463,9 +463,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\PaymentService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\PaymentService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\PaymentService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -475,9 +475,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\ProductService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\ProductService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\ProductService.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAgwLIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,9 +487,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Product.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Domain\\Entities\\Product.cs",
               "RelativeToolTip": "Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -499,9 +499,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CartService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\CartService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -511,9 +511,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IProductService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIAwwBMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -523,9 +523,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\PaymentController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\PaymentController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\PaymentController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -535,9 +535,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\ProductDto.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\ProductDto.cs",
               "RelativeDocumentMoniker": "App.Core\\Dto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Dto\\ProductDto.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Dto\\ProductDto.cs",
               "RelativeToolTip": "App.Core\\Dto\\ProductDto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -547,9 +547,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IPaymentService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IPaymentService.cs",
               "RelativeDocumentMoniker": "App.Core\\Interfaces\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\App.Core\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\App.Core\\Interfaces\\IPaymentService.cs",
               "RelativeToolTip": "App.Core\\Interfaces\\IPaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -560,9 +560,7 @@
               "DocumentIndex": 32,
               "Title": "20241209061538_AnotherAdmin.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
               "ToolTip": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241209061538_AnotherAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:15:38.182Z"
@@ -571,9 +569,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
               "RelativeDocumentMoniker": "EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
               "RelativeToolTip": "EComApplicationBackend\\wwwroots\\upload\\productImage\\335750f8-02ea-40c4-a9d4-5ed3250d097f_fizz.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-12-06T11:08:13.537Z"
@@ -582,9 +580,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
               "RelativeDocumentMoniker": "EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
               "RelativeToolTip": "EComApplicationBackend\\wwwroots\\upload\\productImage\\4c48fa9b-b5b7-4f0b-906e-1bf6ee2aed16_fizz.jpg",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-12-06T11:08:19.927Z"
@@ -594,9 +592,7 @@
               "DocumentIndex": 37,
               "Title": "20241206095542_Addressnullalso.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
               "ToolTip": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095542_Addressnullalso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T09:55:42.841Z"
@@ -605,9 +601,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "CartDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartDetailService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CartDetailService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CartDetailService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\CartDetailService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\CartDetailService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\CartDetailService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAtwBMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -617,9 +613,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CartController.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "EComApplicationBackend\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\EComApplicationBackend\\Controllers\\CartController.cs",
               "RelativeToolTip": "EComApplicationBackend\\Controllers\\CartController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwCcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -629,9 +625,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "SaleService.cs",
-              "DocumentMoniker": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\SaleService.cs",
+              "DocumentMoniker": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\SaleService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\SaleService.cs",
-              "ToolTip": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Services\\SaleService.cs",
+              "ToolTip": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Services\\SaleService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\SaleService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAtwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -642,9 +638,7 @@
               "DocumentIndex": 38,
               "Title": "20241206095240_Addressnull.cs",
               "DocumentMoniker": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
               "ToolTip": "C:\\Users\\siddharthsupekar\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\EComApplicationBackendBackup\\EComApplicationBackend (1)\\EComApplicationBackend\\Infrastructure\\Migrations\\20241206095240_Addressnull.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T09:52:41.279Z"

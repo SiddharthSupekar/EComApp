@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X61T4li0r+U=",
+  "dgSpecHash": "fja/l/uUuyw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\siddharthsupekar\\source\\EComApplicationFinal\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\GitClones\\EComApp\\EComApplicationBackend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\siddharthsupekar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\siddharthsupekar\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
